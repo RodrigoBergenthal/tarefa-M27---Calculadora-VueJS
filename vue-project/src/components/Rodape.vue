@@ -1,6 +1,6 @@
 <template>
     <footer class="text-center py-3">
-      <p>&copy; 2024 Calculadora Aritmética. Desenvolvida por Rodrigo Bergenthal EBAC fullstack python.</p>
+      <p>&copy; 2024 Calculadora Windows 95. Desenvolvida por Rodrigo Bergenthal EBAC fullstack python.</p>
     </footer>
   </template>
   
