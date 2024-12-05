@@ -80,7 +80,3 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull r
 ## Licença
 
 Este projeto é licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-Espero que este README seja útil para você! Se tiver alguma dúvida ou precisar de ajuda, sinta-se à vontade para entrar em contato. Boa sorte com o seu projeto!
